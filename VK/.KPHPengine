@@ -1,1 +1,5 @@
-|The KPHP Group|
+[SETTINGS]
+{
+Performance => true,
+Evolution = true
+}
