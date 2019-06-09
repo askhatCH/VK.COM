@@ -1,6 +1,6 @@
 # How to work with library «VKBot.php»?
 It requires:
-* Server (Hosting) or IDE (DevelNext, DevelStudio, PhpStorm and...)
+* Server (Hosting) or IDE (DevelNext, DevelStudio, PhpStorm...)
 * PHP 7+
 * Group VK
 * Knowledge VK.COM and Programming (**Necessarily**)
