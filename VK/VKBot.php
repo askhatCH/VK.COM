@@ -33,7 +33,7 @@ class VKBot
         	if ($userDataTime == 'T23' || $userDataTime == 'T22' || $userDataTime == 'T21' ) $userDataDay += 1;
         	$userDataMonth = substr(str_replace('-', '.', $getRegData[1]), 5, -18);
         	$userDataYear = substr(str_replace('-', '.', $getRegData[1]), 0, -21);
-			return $userDataDay.'.'.$userDataMonth.'.'.$userDataYear;
+		return $userDataDay.'.'.$userDataMonth.'.'.$userDataYear;
 	}
     }
 }
